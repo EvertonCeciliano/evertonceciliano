@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Connect with me!</p>
+<p >Connect with me!</p>
 
 ###
 
